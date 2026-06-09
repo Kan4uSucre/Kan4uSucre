@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and News Technologies
 - 🌱 I’m currently learning Python , GLUA / LUA
 - 💞️ I’m looking to collaborate on Python Project (Discord ones)
-- 📫 How to reach me discord -> kanausucre
+- 📫 How to reach me discord -> kandsc
 - 😄 From: France
 
 
